@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 
-// main function
+// main f
 int main() {
   
   return 0;
